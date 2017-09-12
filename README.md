@@ -16,3 +16,4 @@ release:
 		],
 	]
 	```
+- taiga_helper_v2.xlsm, add global IP endpoint
