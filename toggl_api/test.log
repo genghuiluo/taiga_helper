@@ -357,3 +357,20 @@
 [LOG] jump to page:2
 [LOG] http response code: 200
 ============== END =================
+[LOG] start at 12/09/2017 23:55, decode auth: MGViMDI1ZjM4MWE1YWM3YmU3YTQxNzdjMzAwNGJjMGI6YXBpX3Rva2Vu
+[LOG] request workspaces, http response code: 200
+[LOG] workspace_id: 2212225, workspaces_name: Luogh's workspace
+[LOG] request detail report, http response code: 200
+[LOG] report has 4 pages
+[LOG] jump to page:2
+[LOG] http response code: 200
+[LOG] jump to page:3
+[LOG] http response code: 200
+[LOG] jump to page:4
+[LOG] http response code: 200
+[LOG] workspace_id: 2216220, workspaces_name: Luogh's workspace2
+[LOG] request detail report, http response code: 200
+[LOG] report has 2 pages
+[LOG] jump to page:2
+[LOG] http response code: 200
+============== END =================
